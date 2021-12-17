@@ -4,9 +4,13 @@
 install some dependecies :
 
 ```
-npm install apollo-server type-graphql typeorm reflect-metadata
-//install nodemon package
+npm install apollo-server type-graphql typeorm reflect-metadata:
+
+//install nodemon package:
+
 npm install -D typescript ts-node nodemon
+
+npm install
 
 npm start
 
